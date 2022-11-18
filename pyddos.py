@@ -8,7 +8,7 @@ title = '''
     _|    \__, |____/ ____/ \___/ ____/ _____/ \___|_|   _| .__/ \__|  
            ____/                                            _|         
                                                                     
- DDos python script | DGQ - VIET NAM SECURITY | Ddos attack     
+ DDos python script | DGQ - VIET NAM SECURITY | DDoS Attack     
  Author: ___DGQ DEV___                                                
  Github: https://github.com/giaquy208/pyddos                             
  Version:'''+version+''' 

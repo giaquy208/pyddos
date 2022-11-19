@@ -18,7 +18,7 @@
 - final : `python3 pyddos.py or python pyddos.py`
 #
 ## Author:
-- DEVELOPER DINH GIA QUY
+- DEVELOPER PALACE DINH GIA QUY
 #
 ## end
 - Like the project? Leave a ? star on the repository! :>
